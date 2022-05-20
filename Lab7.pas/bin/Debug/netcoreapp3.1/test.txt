@@ -1,0 +1,22 @@
+ten db 0ah
+hun dw 100
+ohun db 101
+thous dw 0ff6h
+hund db 78h
+str db 1ah
+
+imul thous
+imul hun
+imul bx
+imul cx
+imul ax
+push dx
+push ds
+push hun
+mov thous,ax
+mov al,ten
+mov ax,hun
+mov thous,cs
+mov hun,es
+mov ds,hun
+mov bl , ten

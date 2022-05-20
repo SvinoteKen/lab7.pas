@@ -1,0 +1,14 @@
+C:\Users\stast\source\repos\Lab7.pas\Lab7.pas\bin\Debug\netcoreapp3.1\Lab7.pas.exe
+C:\Users\stast\source\repos\Lab7.pas\Lab7.pas\bin\Debug\netcoreapp3.1\Lab7.pas.deps.json
+C:\Users\stast\source\repos\Lab7.pas\Lab7.pas\bin\Debug\netcoreapp3.1\Lab7.pas.runtimeconfig.json
+C:\Users\stast\source\repos\Lab7.pas\Lab7.pas\bin\Debug\netcoreapp3.1\Lab7.pas.runtimeconfig.dev.json
+C:\Users\stast\source\repos\Lab7.pas\Lab7.pas\bin\Debug\netcoreapp3.1\Lab7.pas.dll
+C:\Users\stast\source\repos\Lab7.pas\Lab7.pas\bin\Debug\netcoreapp3.1\Lab7.pas.pdb
+C:\Users\stast\source\repos\Lab7.pas\Lab7.pas\obj\Debug\netcoreapp3.1\Lab7.pas.csproj.AssemblyReference.cache
+C:\Users\stast\source\repos\Lab7.pas\Lab7.pas\obj\Debug\netcoreapp3.1\Lab7.pas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stast\source\repos\Lab7.pas\Lab7.pas\obj\Debug\netcoreapp3.1\Lab7.pas.AssemblyInfoInputs.cache
+C:\Users\stast\source\repos\Lab7.pas\Lab7.pas\obj\Debug\netcoreapp3.1\Lab7.pas.AssemblyInfo.cs
+C:\Users\stast\source\repos\Lab7.pas\Lab7.pas\obj\Debug\netcoreapp3.1\Lab7.pas.csproj.CoreCompileInputs.cache
+C:\Users\stast\source\repos\Lab7.pas\Lab7.pas\obj\Debug\netcoreapp3.1\Lab7.pas.dll
+C:\Users\stast\source\repos\Lab7.pas\Lab7.pas\obj\Debug\netcoreapp3.1\Lab7.pas.pdb
+C:\Users\stast\source\repos\Lab7.pas\Lab7.pas\obj\Debug\netcoreapp3.1\Lab7.pas.genruntimeconfig.cache
